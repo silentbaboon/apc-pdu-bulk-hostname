@@ -1,0 +1,20 @@
+# PDU hostname/IP list — contains real hostnames and IPs, never commit this
+pdu_hostname_ip.csv
+ 
+# Local config overrides with real passwords
+*.local.py
+*.local.exp
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+ 
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+ 
